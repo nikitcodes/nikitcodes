@@ -1,4 +1,4 @@
-# ¡Hola! Soy Arturo Sebastian Rosales Aguilar 👋
+# ¡Hola! Soy Arturo👋
 
 **Estudiante de Ingeniería Informática — Pontificia Universidad Católica del Perú (PUCP)**
 5to/6to ciclo · Enfocado en **Backend**, **Inteligencia Artificial** y **Computer Vision**
