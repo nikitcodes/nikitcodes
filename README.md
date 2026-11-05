@@ -83,6 +83,7 @@ Estoy construyendo una base sólida en ingeniería de software, bases de datos, 
 | [**Learning-React-Pomodoro**](https://github.com/nikitcodes/Learning-React-Pomodoro) | 🌐 Público | Aplicación Pomodoro construida como proyecto personal para aprender React. |
 | **sistema-academico-fullstack** | 🔒 Privado, en construcción | Sistema académico con backend en Java y base de datos MySQL. |
 | **NKT-Music** | 🔒 Privado, en construcción | Proyecto personal en Java. |
+| **Nix — Asistente de escritorio** | 🔒 Privado, en construcción | Proyecto personal. |
 
 ---
 
