@@ -81,6 +81,7 @@ Estoy construyendo una base sólida en ingeniería de software, bases de datos, 
 |---|---|---|
 | [**Universidad**](https://github.com/nikitcodes/Universidad-) | 🌐 Público | Repositorio académico con trabajos, prácticas y proyectos de la carrera. |
 | [**Learning-React-Pomodoro**](https://github.com/nikitcodes/Learning-React-Pomodoro) | 🌐 Público | Aplicación Pomodoro construida como proyecto personal para aprender React. |
+| [**Consultorio Médico Vizvall-fullstack**](https://github.com/nikitcodes/Sistema-Consultorio-Medico) | 🌐 Público | Sistema web de un consultorio médico, registro de citas, administración de roles, etc. JAVA y C# |
 | **sistema-academico-fullstack** | 🔒 Privado, en construcción | Sistema académico con backend en Java y base de datos MySQL. |
 | **NKT-Music** | 🔒 Privado, en construcción | Proyecto personal en Java. |
 | **Nix — Asistente de escritorio** | 🔒 Privado, en construcción | Proyecto personal. |
